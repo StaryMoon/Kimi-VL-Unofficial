@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this unofficial implementation, please cite the original paper."
+title: "Kimi-VL-Unofficial"
+authors:
+  - family-names: "Liu"
+    given-names: "Minghao"
+repository-code: "https://github.com/StaryMoon/Kimi-VL-Unofficial"
+license: "MIT"
+date-released: "2026-06-11"
+references:
+  - type: article
+    title: "Kimi-VL Technical Report"
+    authors:
+      - name: "Kimi Team"
+    year: 2025
+    url: "https://arxiv.org/abs/2504.07491"
