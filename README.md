@@ -14,6 +14,26 @@
 
 > This is an **unofficial** implementation maintained by [@StaryMoon](https://github.com/StaryMoon). If this repository helps your reading, reproduction, or course project, please consider giving it a star and following my GitHub profile.
 
+## Paper / Project Preview
+
+<p align="center">
+  <img src="assets/paper-preview.png" alt="Kimi-VL-Unofficial paper or project page preview" width="900">
+</p>
+
+<sub>Image source: public paper PDF first-page screenshot, [Paper](https://arxiv.org/abs/2504.07491). Captured/organized on 2026-07-02. This repository is unofficial and is not affiliated with the paper authors.</sub>
+
+## At a Glance
+
+| Item | Details |
+|---|---|
+| Paper | Kimi-VL Technical Report |
+| Venue / Source | MoE Vision-Language Model / arXiv 2025 |
+| Focus | This repository organizes a PyTorch implementation for Kimi-VL Technical Report, focusing on efficient MoE vision-language modeling with long-context visual reasoning and agent... |
+| Repository type | Unofficial PyTorch reproduction starter |
+| Local entry point | `python scripts/smoke_test.py` |
+
+
+
 ## News
 
 - **2026-06-11**: Initial public release with official-style project structure, citation metadata, configuration, PyTorch interfaces, and smoke test.
